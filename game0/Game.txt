@@ -1,0 +1,22 @@
+Additional Things added:
+
+Health for hero: health starts at 50 and is decreased by 10 every time a saucer hits the hero.
+If health reaches 0 then game over is triggered and your ship blows up.
+
+Health display: health is displayed at the top and updates every time the hero gains or loses health.
+
+HealthPack: spawns when hero's health is 30 or below; only 1 is spawned for each loss of 10 health points.
+If player collects the healthpack, health increases by 10.
+
+HealthPack sprite: basic sprite for the health pack with simple animation
+
+Added in health pickup sound and in-game music - both are located in the sounds folder.
+
+Made some minor changes to some object velocities and colors.
+
+The code for the healthpack involved creating a health event for the game to watch for that was 
+triggered whenever a healthpack collided with the hero, as well as handling collisions between
+the healthpack and the ship, and the healthpack and saucers. Eventually I made it so the healthpack
+had a SOFT solidness so it wouldn't interfere with saucer movements but could still be collected by
+the player. Also created were the healthpack source files, health attribute in hero, and the health
+display viewObject source files.

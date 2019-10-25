@@ -1,0 +1,21 @@
+17:32:45    0 ****************************************************
+17:32:45    0 ** Dragonfly version 4.15 **
+17:32:45    0 ** Game engine started **
+17:32:45    0 ****************************************************
+17:32:46   32 ResourceManager::loadSprite(): Loading sprite 'sprites/saucer-spr.txt'.
+17:32:46   32 ResourceManager::loadSprite(): Sprite 'saucer' loaded.
+17:32:46   32 ResourceManager::loadSprite(): Loading sprite 'sprites/ship-spr.txt'.
+17:32:46   32 ResourceManager::loadSprite(): Sprite 'ship' loaded.
+17:32:46   32 ResourceManager::loadSprite(): Loading sprite 'sprites/bullet-spr.txt'.
+17:32:46   32 ResourceManager::loadSprite(): Sprite 'bullet' loaded.
+17:32:46   32 ResourceManager::loadSprite(): Loading sprite 'sprites/explosion-spr.txt'.
+17:32:46   32 ResourceManager::loadSprite(): Sprite 'explosion' loaded.
+17:32:46   32 ResourceManager::loadSprite(): Loading sprite 'sprites/gameover-spr.txt'.
+17:32:46   32 ResourceManager::loadSprite(): Sprite 'gameover' loaded.
+17:32:46   32 ResourceManager::loadSprite(): Loading sprite 'sprites/gamestart-spr.txt'.
+17:32:46   32 ResourceManager::loadSprite(): Sprite 'gamestart' loaded.
+17:32:46   32 ResourceManager::loadSprite(): Loading sprite 'sprites/healthpack-spr.txt'.
+17:32:46   32 ResourceManager::loadSprite(): Sprite 'healthpack' loaded.
+17:32:46   32 Pause::Pause(): Pause enabled.  Press any other key to resume.
+17:33:20 1001 ****************************************************
+17:33:20 1001 ** Game engine stopped **
